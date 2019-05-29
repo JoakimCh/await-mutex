@@ -4,7 +4,7 @@
   "module": "source/AwaitMutex.js",
   "main": "source/AwaitMutex.js",
   "name": "await-mutex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Promise based mutex",
   "license": "Unlicense",
   "repository": {
